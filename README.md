@@ -19,7 +19,9 @@ The API will be accessible at http://localhost:5000.
 
 We have included Postman test cases to validate the functionality of the API. The test cases have been exported as JSON and are available in the repository for both local and live server testing.
 
+## Assumptions
 
+We assume that the Assigned To and Raised By user IDs are same in this ticketing application for now
 
 
 Looking Forward to hearing from you! 
